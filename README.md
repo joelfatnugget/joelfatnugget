@@ -8,7 +8,7 @@ Aspiring Software Engineer/Solutions Architect
 * ✉️  You can contact me at [joeltanec@gmail.com](mailto:joeltanec@gmail.com)
 * 🧠  I'm learning Java - Spring Boot Framework
 * 🤝  I'm open to collaborating on Interesting Projects, Containerisations, Productivity Applications
-* ⚡  Hello, my name is Joel, and I am a passionate and motivated Y3 SCIS student. With a keen interest in technology, I have experience in developing tools such as PowerShell, which can automate the installation of various applications. I am fascinated by the inner workings of technology and enjoy exploring the latest advancements in the field. In my free time, I love to read and stay active by going for a run, all while listening to some relaxing lo-fi music. My goal is to become a software engineer, where I can leverage my skills and knowledge to create innovative solutions that add value to people's lives. I am eager to connect with like-minded professionals in the industry, so please feel free to reach out and connect with me!
+* ⚡  Hello, I'm Joel, a motivated Year 4 student at the School of Computing & Information Systems (SCIS). I’ve had the opportunity to work on mobile development, security architecture, and API testing in various internships. I am passionate about technology and have experience in front-end development, cloud infrastructure, and automation. In my free time, I enjoy staying active, reading, and listening to lo-fi music. I aspire to become a software engineer and use my skills to create innovative solutions that positively impact lives. Let’s connect if you share similar interests!
 
 ### Skills
 
