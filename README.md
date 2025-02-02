@@ -1,6 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joel Tan
 ================================================================================================================================
 
+## Please go Donate Blood! Check out the Singapore Blood Level here: 
+[Github Blood Bank Level](https://github.com/joelfatnugget/BloodBankLevel/tree/main)
+[Singapore Redcross Blood Bank Website](https://giveblood.sg/)
+
 Aspiring Software Engineer/Solutions Architect
 ----------------------------------------------
 
