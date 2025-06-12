@@ -11,9 +11,9 @@ Aspiring Software Engineer/Solutions Architect
 
 * 🌍  I'm based in Singapore
 * ✉️  You can contact me at [joeltanec@gmail.com](mailto:joeltanec@gmail.com)
-* 🧠  I'm learning C Programming Language
+* 🧠  I'm learning how to write "Hello World"
 * 🤝  I'm open to collaborating on Interesting Projects, Containerisations, Productivity Applications
-* ⚡  Hello, I'm Joel, a motivated Year 4 student at the School of Computing & Information Systems (SCIS). I’ve had the opportunity to work on mobile development, security architecture, and API testing in various internships. I am passionate about technology and have experience in front-end development, cloud infrastructure, and automation. In my free time, I enjoy staying active, reading, and listening to lo-fi music. I aspire to become a software engineer and use my skills to create innovative solutions that positively impact lives. Let’s connect if you share similar interests!
+* ⚡  Hello, I'm Joel, a Software Engineer working in Singapore. I’ve had the opportunity to work on mobile development, security architecture, and API testing in various internships. I am passionate about technology and have experience in front-end development, cloud infrastructure, and automation. In my free time, I enjoy staying active, reading, and listening to lo-fi music. Let’s connect if you share similar interests!
 
 ### Skills 
 <p align="left">
