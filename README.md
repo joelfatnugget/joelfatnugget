@@ -1,45 +1,61 @@
 # Joel Tan
 
-**Fullstack Developer | Generative AI & RAG Engineer | Solutions Architecture**  
+**Fullstack & Generative AI Engineer | Enterprise RAG Systems | Solutions Architecture**  
 Singapore | [LinkedIn](https://www.linkedin.com/in/joeltanec/) | [Technical Blog](https://blog.joelfatnugget.xyz) | [Email](mailto:joeltanec@gmail.com)
 
 ---
 
 ### Professional Overview
 
-Fullstack Developer at **Visa Inc**, specializing in production Generative AI applications, Retrieval-Augmented Generation (RAG) pipelines, and enterprise-grade payment architectures. Experienced in building high-throughput client platforms, automated CI/CD infrastructure, and secure API integrations across financial services and healthcare domains. Currently pursuing an MSc in IT and Business at Singapore Management University.
+Fullstack Developer at **Visa Inc**, specializing in production Generative AI applications, custom Retrieval-Augmented Generation (RAG) architectures, and enterprise distributed platforms. Proven track record in designing high-throughput LLM pipelines, autonomous agentic workflows, and automated CI/CD infrastructure across financial services and enterprise environments. Master of Science in IT & Business candidate at Singapore Management University.
 
 ---
 
-### Core Engineering Focus
+### AI & Systems Engineering Focus
 
-- **Generative AI & RAG Systems:** Architected an enterprise RAG pipeline at Visa, reducing technical documentation test-case generation time by 98% (from 8,000 to 50 hours).
-- **Enterprise Payment Platforms:** Long-term feature delivery and release management for the Visa Test Portal serving 1,000+ global financial clients. Deep study of ISO 8583 standards, authorization routing, and settlement mechanisms.
-- **Infrastructure & Automation:** Automated VM patching pipelines via Jenkins, PowerShell, and Docker, reducing operational overhead by 70% in banking environments (Sumitomo Mitsui Banking Corp).
-- **Competitive Engineering:** 1st Place - Visa APAC Case Competition (2024); 1st Place - Code For Cities by SMU/IBM Hackathon.
+- **Enterprise Generative AI & RAG Pipelines:** Architected an end-to-end RAG system at Visa, slashing manual test case creation time from 8,000 to 50 engineering hours (98% efficiency gain) across 1,000+ pages of technical documentation. Delivered the production-grade live demo within 5 months of inception.
+- **Autonomous Multi-Agent Architecture:** Designed modular multi-agent orchestration frameworks featuring role-specialized sub-agents, deterministic guardrails, and automated tool-calling workflows.
+- **Predictive Machine Learning & Applied NLP:** Developed regression and predictive models for commercial forecasting at Align Technology; formal training across deep learning, neural networks, and NLP (Heicoders AI100 / AI200).
+- **Enterprise Distributed Platforms:** Sustained and enhanced the global Visa Test Portal serving 1,000+ financial clients, maintaining quarterly documentation alignment and rapid defect resolution.
+- **Engineering Honors:** 1st Place - Visa APAC Case Competition (2024); 1st Place - Code For Cities Hackathon (SMU / IBM).
 
 ---
 
-### Featured Projects
+### AI & Open-Source Projects
+
+#### [Clothes.AI](https://github.com/joelfatnugget)
+Context-aware personal styling and wardrobe orchestration platform driven by LLM reasoning.
+- **Architecture:** Visual workflow pipeline combining deterministic color matrix filtering with LLM abstraction layers (Gemini Flash / Ollama).
+- **Capabilities:** Generates occasion- and weather-calibrated outfit recommendations based on existing wardrobe inventory, skin undertone palettes, and live meteorological feeds.
+- **Tech Stack:** Python, React, Tailwind CSS, Gemini API, Open-Meteo API.
 
 #### [BloodBankLevel](https://github.com/joelfatnugget/BloodBankLevel)
-Automated monitoring and ETL pipeline that tracks daily blood stock levels from the Singapore Red Cross.
-- **Tech Stack:** Python, BeautifulSoup, GitHub Actions, Markdown Automation
-- **Functionality:** Extracts live blood inventory tiers, formats status reports, and commits automated updates to maintain public blood bank availability visibility.
+Automated monitoring and ETL pipeline tracking daily blood bank inventory across Singapore.
+- **Architecture:** Scheduled headless extraction pipeline deployed via GitHub Actions with automated markdown report compilation and dataset publication.
+- **Tech Stack:** Python, BeautifulSoup, GitHub Actions, CI/CD Automation.
 
 #### [LessonsToPayment](https://github.com/joelfatnugget/LessonsToPayment) & [Technical Blog](https://blog.joelfatnugget.xyz)
-A structured technical breakdown and publication series dissecting payment gateway mechanics, transaction processing, and network protocols.
-- **Topics:** ISO 8583 message parsing, Four-Party payment models, EMV tokenization vs magstripe, authorization reversals, and fraud risk scoring.
-- **Platform:** Built with Astro, MDX, and modern responsive styling.
+Comprehensive technical publication series dissecting financial payment rails, ISO 8583 standards, and transaction routing architectures.
+- **Topics Covered:** ISO 8583 messaging standards, Four-Party payment network rails, EMV tokenization vs magnetic stripe, transaction reversals, and automated fraud scoring.
+- **Platform:** High-performance static architecture built with Astro and MDX.
 
 #### [PersonalWeb](https://github.com/joelfatnugget/PersonalWeb)
 Modern, performant web showcase and developer utility suite.
-- **Tech Stack:** Svelte, Tailwind CSS, Skeleton UI, shadcn-svelte, Lucide
-- **Architecture:** Responsive client interface built for rapid navigation and interactive technical demonstrations.
+- **Tech Stack:** Svelte, Tailwind CSS, Skeleton UI, shadcn-svelte, Lucide.
 
 ---
 
 ### Technical Competencies
+
+#### AI & Data Engineering
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-0A85EA?style=flat)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-5E35B1?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![OpenAI / Gemini APIs](https://img.shields.io/badge/LLM_APIs-412991?style=flat)
+![Vector Retrieval](https://img.shields.io/badge/Vector_Retrieval-00897B?style=flat)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
 #### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -50,20 +66,13 @@ Modern, performant web showcase and developer utility suite.
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-#### Frameworks & Libraries
+#### Frameworks & Backend Systems
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-#### AI & Data Engineering
-![RAG Architecture](https://img.shields.io/badge/RAG_Pipelines-0A85EA?style=flat)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-59666C?style=flat)
 
 #### Cloud, DevOps & Security
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -82,16 +91,15 @@ Modern, performant web showcase and developer utility suite.
 
 ---
 
-### GitHub Activity & Analytics
+### Language Distribution
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=joelfatnugget&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelfatnugget&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
 </div>
 
 ---
 
-### Contact & Links
+### Connect
 
 - LinkedIn: [linkedin.com/in/joeltanec](https://www.linkedin.com/in/joeltanec/)
 - Technical Blog: [blog.joelfatnugget.xyz](https://blog.joelfatnugget.xyz)
