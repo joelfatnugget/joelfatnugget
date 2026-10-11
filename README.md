@@ -10,19 +10,20 @@
 
 | Current Role | Core Specialization | Academic Background |
 | :--- | :--- | :--- |
-| Fullstack Developer @ **Visa Inc** | Enterprise RAG, GenAI Pipelines, ISO 8583 Rails | MSc IT & Business @ **SMU** |
+| Fullstack Developer @ **Visa Inc** | Enterprise RAG, Multi-Model AI Systems, ISO 8583 Rails | MSc IT & Business @ **SMU** |
 
 ---
 
 ### Professional Overview
 
-Fullstack Developer at **Visa Inc**, specializing in production Generative AI applications, custom Retrieval-Augmented Generation (RAG) architectures, and enterprise distributed platforms. Proven track record in designing high-throughput LLM pipelines, autonomous agentic workflows, and automated CI/CD infrastructure across financial services and enterprise environments. Master of Science in IT & Business candidate at Singapore Management University.
+Fullstack Developer at **Visa Inc**, specializing in production Generative AI applications, custom Retrieval-Augmented Generation (RAG) architectures, and enterprise distributed platforms. Proven track record in designing high-throughput LLM pipelines, autonomous multi-model market intelligence systems, and automated CI/CD infrastructure across financial services and enterprise environments. Master of Science in IT & Business candidate at Singapore Management University.
 
 ---
 
 ### AI & Systems Engineering Focus
 
 - **Enterprise Generative AI & RAG Pipelines:** Architected an end-to-end RAG system at Visa, slashing manual test case creation time from 8,000 to 50 engineering hours (**98% efficiency gain**) across 1,000+ pages of technical documentation. Delivered the production-grade live demo within 5 months of inception.
+- **Multi-Model Market Intelligence Engine (Visa IPVMC):** Architected an automated regional market intelligence and briefing pipeline serving Visa's IPVMC teams (Indonesia, Philippines, Vietnam, Myanmar, Cambodia). Orchestrates parallel frontier research models (Claude Sonnet 5.5, OpenAI GPT-6-Sol, Grok 4.7, Gemini 3.8) for real-time web discovery, paired with Claude Opus 5.5 for hierarchical synthesis, fact cross-validation, and scheduled enterprise SMTP newsletter distribution.
 - **Autonomous Multi-Agent Architecture:** Designed modular multi-agent orchestration frameworks featuring role-specialized sub-agents, deterministic guardrails, and automated tool-calling workflows.
 - **Predictive Machine Learning & Applied NLP:** Developed regression and predictive models for commercial forecasting at Align Technology; formal training across deep learning, neural networks, and NLP (Heicoders AI100 / AI200).
 - **Enterprise Distributed Platforms:** Sustained and enhanced the global Visa Test Portal serving **1,000+ financial clients**, maintaining quarterly documentation alignment and rapid defect resolution.
@@ -30,7 +31,14 @@ Fullstack Developer at **Visa Inc**, specializing in production Generative AI ap
 
 ---
 
-### Featured Projects
+### Featured Systems & Projects
+
+#### Multi-Model Market Intelligence Platform (Visa Internal)
+Automated regional market intelligence monitoring and executive newsletter generation system deployed across Visa's IPVMC teams.
+- **Heterogeneous Model Discovery:** Dispatches parallel research queries across Claude Sonnet 5.5, OpenAI GPT-6-Sol, Grok 4.7, and Gemini 3.8 to perform real-time web search and extract macroeconomic and regulatory shifts affecting payments in Indonesia, Philippines, Vietnam, Myanmar, and Cambodia.
+- **Hierarchical Synthesis:** Employs Claude Opus 5.5 as the lead synthesis layer to de-duplicate findings, cross-verify disparate reporting, and compile concise, executive-grade analysis.
+- **Automated Dispatch Pipeline:** Connects directly to enterprise SMTP infrastructure to generate and blast structured, responsive HTML newsletters to regional stakeholders on a weekly schedule.
+- **Tech Stack:** Python, Multi-LLM Orchestration, Prompt Engineering, Enterprise SMTP, HTML/CSS Templating.
 
 #### [BloodBankLevel](https://github.com/joelfatnugget/BloodBankLevel)
 Automated monitoring and ETL pipeline tracking daily blood bank inventory across Singapore.
@@ -61,9 +69,10 @@ Structured implementations of core data structures, graph traversals, and algori
 
 #### AI & Data Engineering
 ![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-0A85EA?style=flat)
+![Multi-Model Orchestration](https://img.shields.io/badge/Multi--Model_Orchestration-2E7D32?style=flat)
 ![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-5E35B1?style=flat)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![OpenAI / Gemini APIs](https://img.shields.io/badge/LLM_APIs-412991?style=flat)
+![Frontier LLM APIs](https://img.shields.io/badge/LLM_APIs-412991?style=flat)
 ![Vector Retrieval](https://img.shields.io/badge/Vector_Retrieval-00897B?style=flat)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
