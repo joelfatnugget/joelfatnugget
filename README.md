@@ -1,7 +1,16 @@
 # Joel Tan
 
-**Fullstack & Generative AI Engineer | Enterprise RAG Systems | Solutions Architecture**  
-Singapore | [LinkedIn](https://www.linkedin.com/in/joeltanec/) | [Technical Blog](https://blog.joelfatnugget.xyz) | [Email](mailto:joeltanec@gmail.com)
+**Fullstack & Generative AI Engineer | Enterprise RAG Systems | Solutions Architecture**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joeltanec/)
+[![Technical Blog](https://img.shields.io/badge/Blog-18181B?style=flat&logo=astro&logoColor=white)](https://blog.joelfatnugget.xyz)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:joeltanec@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=flat&logo=svelte&logoColor=white)](https://github.com/joelfatnugget/PersonalWeb)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/joelfatnugget)
+
+| Current Role | Core Specialization | Academic Background |
+| :--- | :--- | :--- |
+| Fullstack Developer @ **Visa Inc** | Enterprise RAG, GenAI Pipelines, ISO 8583 Rails | MSc IT & Business @ **SMU** |
 
 ---
 
@@ -13,21 +22,15 @@ Fullstack Developer at **Visa Inc**, specializing in production Generative AI ap
 
 ### AI & Systems Engineering Focus
 
-- **Enterprise Generative AI & RAG Pipelines:** Architected an end-to-end RAG system at Visa, slashing manual test case creation time from 8,000 to 50 engineering hours (98% efficiency gain) across 1,000+ pages of technical documentation. Delivered the production-grade live demo within 5 months of inception.
+- **Enterprise Generative AI & RAG Pipelines:** Architected an end-to-end RAG system at Visa, slashing manual test case creation time from 8,000 to 50 engineering hours (**98% efficiency gain**) across 1,000+ pages of technical documentation. Delivered the production-grade live demo within 5 months of inception.
 - **Autonomous Multi-Agent Architecture:** Designed modular multi-agent orchestration frameworks featuring role-specialized sub-agents, deterministic guardrails, and automated tool-calling workflows.
 - **Predictive Machine Learning & Applied NLP:** Developed regression and predictive models for commercial forecasting at Align Technology; formal training across deep learning, neural networks, and NLP (Heicoders AI100 / AI200).
-- **Enterprise Distributed Platforms:** Sustained and enhanced the global Visa Test Portal serving 1,000+ financial clients, maintaining quarterly documentation alignment and rapid defect resolution.
+- **Enterprise Distributed Platforms:** Sustained and enhanced the global Visa Test Portal serving **1,000+ financial clients**, maintaining quarterly documentation alignment and rapid defect resolution.
 - **Engineering Honors:** 1st Place - Visa APAC Case Competition (2024); 1st Place - Code For Cities Hackathon (SMU / IBM).
 
 ---
 
-### AI & Open-Source Projects
-
-#### [Clothes.AI](https://github.com/joelfatnugget)
-Context-aware personal styling and wardrobe orchestration platform driven by LLM reasoning.
-- **Architecture:** Visual workflow pipeline combining deterministic color matrix filtering with LLM abstraction layers (Gemini Flash / Ollama).
-- **Capabilities:** Generates occasion- and weather-calibrated outfit recommendations based on existing wardrobe inventory, skin undertone palettes, and live meteorological feeds.
-- **Tech Stack:** Python, React, Tailwind CSS, Gemini API, Open-Meteo API.
+### Featured Projects
 
 #### [BloodBankLevel](https://github.com/joelfatnugget/BloodBankLevel)
 Automated monitoring and ETL pipeline tracking daily blood bank inventory across Singapore.
@@ -39,9 +42,18 @@ Comprehensive technical publication series dissecting financial payment rails, I
 - **Topics Covered:** ISO 8583 messaging standards, Four-Party payment network rails, EMV tokenization vs magnetic stripe, transaction reversals, and automated fraud scoring.
 - **Platform:** High-performance static architecture built with Astro and MDX.
 
+#### [Clothes.AI](https://github.com/joelfatnugget)
+Context-aware personal styling and wardrobe orchestration platform driven by LLM reasoning.
+- **Architecture:** Visual workflow pipeline combining deterministic color matrix filtering with LLM abstraction layers (Gemini Flash / Ollama).
+- **Capabilities:** Generates occasion- and weather-calibrated outfit recommendations based on existing wardrobe inventory, skin undertone palettes, and live meteorological feeds.
+- **Tech Stack:** Python, React, Tailwind CSS, Gemini API, Open-Meteo API.
+
 #### [PersonalWeb](https://github.com/joelfatnugget/PersonalWeb)
 Modern, performant web showcase and developer utility suite.
 - **Tech Stack:** Svelte, Tailwind CSS, Skeleton UI, shadcn-svelte, Lucide.
+
+#### [NeetCode & Algorithmic Practice](https://github.com/joelfatnugget/neetcode-submissions)
+Structured implementations of core data structures, graph traversals, and algorithmic problem-solving patterns in Python.
 
 ---
 
@@ -91,10 +103,22 @@ Modern, performant web showcase and developer utility suite.
 
 ---
 
+### Education & Credentials
+
+- **Singapore Management University**
+  - Master of Science in IT and Business (Aug 2026 – Aug 2028)
+  - Bachelor of Science in Information Systems (Aug 2021 – Aug 2025)
+- **Certifications & Specializations**
+  - Heicoders Academy AI100: Applied Machine Learning
+  - Heicoders Academy AI200: Applied Deep Learning & NLP
+  - Google Cloud Fundamentals: Core Infrastructure
+
+---
+
 ### Language Distribution
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelfatnugget&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelfatnugget&layout=compact&theme=radical&hide_border=true&hide=c,html,css" alt="Top Languages" height="165" />
 </div>
 
 ---
