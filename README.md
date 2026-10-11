@@ -23,7 +23,7 @@ Fullstack Developer at **Visa Inc**, specializing in production Generative AI ap
 ### AI & Systems Engineering Focus
 
 - **Enterprise Generative AI & RAG Pipelines:** Architected an end-to-end RAG system at Visa, slashing manual test case creation time from 8,000 to 50 engineering hours (**98% efficiency gain**) across 1,000+ pages of technical documentation. Delivered the production-grade live demo within 5 months of inception.
-- **Multi-Model Market Intelligence Engine (Visa IPVMC):** Architected an automated regional market intelligence and briefing pipeline serving Visa's IPVMC teams (Indonesia, Philippines, Vietnam, Myanmar, Cambodia). Orchestrates parallel frontier research models (Claude Sonnet 5.5, OpenAI GPT-6-Sol, Grok 4.7, Gemini 3.8) for real-time web discovery, paired with Claude Opus 5.5 for hierarchical synthesis, fact cross-validation, and scheduled enterprise SMTP newsletter distribution.
+- **Multi-Model Market Intelligence Engine (Visa IPVMC):** Architected an automated regional market intelligence and briefing pipeline serving Visa's IPVMC teams (Indonesia, Philippines, Vietnam, Myanmar, Cambodia). Orchestrates parallel frontier research models (Claude Sonnet 5.5, OpenAI GPT-6-Sol, Grok 4.7, Gemini 3.8) for real-time web discovery, paired with Claude Opus 5.5 for hierarchical synthesis and enterprise SMTP newsletter distribution. Dispatched **400+ executive emails across 10 strategic topics** with widespread business team acclaim and active roadmap expansion.
 - **Autonomous Multi-Agent Architecture:** Designed modular multi-agent orchestration frameworks featuring role-specialized sub-agents, deterministic guardrails, and automated tool-calling workflows.
 - **Predictive Machine Learning & Applied NLP:** Developed regression and predictive models for commercial forecasting at Align Technology; formal training across deep learning, neural networks, and NLP (Heicoders AI100 / AI200).
 - **Enterprise Distributed Platforms:** Sustained and enhanced the global Visa Test Portal serving **1,000+ financial clients**, maintaining quarterly documentation alignment and rapid defect resolution.
@@ -38,6 +38,7 @@ Automated regional market intelligence monitoring and executive newsletter gener
 - **Heterogeneous Model Discovery:** Dispatches parallel research queries across Claude Sonnet 5.5, OpenAI GPT-6-Sol, Grok 4.7, and Gemini 3.8 to perform real-time web search and extract macroeconomic and regulatory shifts affecting payments in Indonesia, Philippines, Vietnam, Myanmar, and Cambodia.
 - **Hierarchical Synthesis:** Employs Claude Opus 5.5 as the lead synthesis layer to de-duplicate findings, cross-verify disparate reporting, and compile concise, executive-grade analysis.
 - **Automated Dispatch Pipeline:** Connects directly to enterprise SMTP infrastructure to generate and blast structured, responsive HTML newsletters to regional stakeholders on a weekly schedule.
+- **Operational Scale & Business Impact:** Dispatched over 400 executive intelligence emails covering 10 distinct strategic topics across Southeast Asia; strongly received by Visa business leadership with active roadmap expansion across additional regional units.
 - **Tech Stack:** Python, Multi-LLM Orchestration, Prompt Engineering, Enterprise SMTP, HTML/CSS Templating.
 
 #### [BloodBankLevel](https://github.com/joelfatnugget/BloodBankLevel)
